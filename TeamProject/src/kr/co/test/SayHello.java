@@ -7,6 +7,8 @@ public class SayHello {
 		System.out.println("충돌테스트 실험 - in 로컬");
 
 		System.out.println("it is good way to relieve stress");
+		System.out.println("pull testing.......");
+
 
 	}
 }
